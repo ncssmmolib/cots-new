@@ -18,14 +18,14 @@ source-code: https://github.com/CollectionBuilder/cb-oralhistory
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: cb-oralhistory
+title: Children of the Struggle
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Prototype for working with Oral History as Data items in CollectionBuilder
+tagline: Stories of school desegregation in Burke County, North Carolina
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
 description: "CB-OHD is a mix of CollectionBuilder-CSV and Oral History as Data (OHD)."
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
-keywords: oral histories;digital collections
+keywords: oral histories;education;desegregation;Black history
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: dcnb
 
@@ -34,7 +34,7 @@ author: dcnb
 #
 # Set the metadata for your collection (the name of the CSV file in your _data directory that describes the objects in your collection) 
 # Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
-metadata: demo-ohd-metadata 
+metadata: cots-new 
 # page generation settings [optional!]
 # [optional: only used if you need to tweak CB defaults or generate from more than one data file]
 # page_gen:
